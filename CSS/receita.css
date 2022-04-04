@@ -1,0 +1,56 @@
+main {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+main>article {
+    padding: 90px auto
+}
+
+article h1 {
+    font-size: 50px;
+    color: #FFA000;
+    text-transform: lowercase;
+    margin: 104px 90px 69px;
+}
+
+.receitas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.link-receita {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 345px;
+    margin: 0 30px 60px 30px;
+}
+
+.link-receita img {
+    width: 345px;
+    height: 342px;
+    display: block;
+    margin: 0 0 12px;
+}
+
+.link-receita span {
+    display: block;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    text-transform: lowercase;
+    margin: 0 0 24px;
+}
+
+.link-receita a {
+    color: #ffffff;
+    background: #176902;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0px 90px 60px 90px;
+    padding: 10px 43px;
+    text-transform: lowercase;
+    text-decoration: none;
+}

@@ -1,0 +1,146 @@
+* {
+    margin: none;
+}
+main {
+    margin-left: 120px;
+    margin-right: 120px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.receita h1 {
+    font-size: 50px;
+    color: #FFA000;
+    margin-top: 107px;
+}
+
+.receita picture {
+    max-width: 592px;
+    max-height: 311px;
+}
+
+.receita img {
+    margin-top: 28px;
+}
+
+
+.tags {
+    display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    list-style-type: none;
+    margin: 32px 0px 0px 0px;
+    
+}
+
+#tags1 {
+    position: relative;
+    width: 95px;
+    height: 31px;
+    left: 120px;
+    border: 1px solid #176902;
+    box-sizing: border-box;
+    border-radius: 47px;
+    color: #176902;
+    text-align: center;
+}
+
+#tags2 {
+    position: relative;
+    width: 196px;
+    height: 31px;
+    left: 234px;    
+    border: 1px solid #176902;
+    box-sizing: border-box;
+    border-radius: 47px;
+    color: #176902;
+    text-align: center;
+}
+
+article {
+    display: flex;
+}
+
+.ingredientes{
+    display: inline-block;
+    margin: initial;
+    font-size: 20px;
+}
+
+.ingredientes h2 {
+    margin-top: 96px;
+    text-decoration: dashed;
+    font-size: 20px;
+}
+
+.ingredientes p {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.video h2 {
+    font-size: 20px;
+}
+
+.video {
+    display: block;
+    font-size: normal;
+    font-weight: normal;
+    text-decoration: dashed;
+    text-transform: lowercase;
+    margin-top: 70px;
+}
+
+iframe {
+    margin-top: 37px;
+    size-adjust: auto;
+    max-width: 580px;
+    max-height: 317px;
+}
+
+.modo-de-preparo h2{
+    font-size: 20px;
+}
+.modo-de-preparo{
+    font-size: 20px;
+    box-sizing: 578px;
+    display: block;
+    margin-top: 90px;
+    max-height: 576px;
+    margin-bottom: 166px;    
+    width: 572px;
+}
+.modo-de-preparo p {
+    margin-top: 20px;
+}
+
+aside{
+    list-style-type: none;
+    margin-left: 117px;
+    font-size: 30px;
+    color: #FFA000;
+    margin-top: 178px;
+    justify-content: left;
+}
+aside h4 {
+    font-weight: 500;
+}
+
+
+aside li {
+    font-family: 'Montserrat';
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 55px;
+    background: #FFFFFF;
+    width: 345px;
+    height: 411px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+aside a {
+    color: black;
+    text-decoration: dashed;
+}
