@@ -1,6 +1,6 @@
 
 main > section {
-    background: url('/Imagem/contato1.jpeg') 50% 0 no-repeat ;
+    background: url('../Imagem/contato1.jpeg') 50% 0 no-repeat ;
     background-size: contain;
 
 }

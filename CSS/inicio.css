@@ -1,6 +1,6 @@
 
 main > .top{
-    background: url('/Imagem/inicio1.jpeg');
+    background: url('../Imagem/inicio1.jpeg');
     background-size: cover;
     height: 638.18px;
 }
@@ -67,7 +67,7 @@ h2 {
 
 main > .botton {
 
-    background: url('/Imagem/inicio2.jpeg');
+    background: url('../Imagem/inicio2.jpeg');
     background-size: cover;
     height: 772px;
     
